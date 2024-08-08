@@ -1,0 +1,71 @@
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.exe
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.deps.json
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.runtimeconfig.json
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.pdb
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.AssemblyReference.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Form1.resources
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Properties.Resources.resources
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.GenerateResource.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfoInputs.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfo.cs
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\refint\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.pdb
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.genruntimeconfig.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLasAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\ref\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.exe
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.deps.json
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.runtimeconfig.json
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.pdb
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.AssemblyReference.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Form1.resources
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Properties.Resources.resources
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.GenerateResource.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfoInputs.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfo.cs
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\refint\WordPadLasAssignment.dll
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.pdb
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.genruntimeconfig.cache
+C:\Users\sarai\OneDrive\Documents\Visual Studio 2022\Code Snippets\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\ref\WordPadLasAssignment.dll
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.exe
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.deps.json
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.runtimeconfig.json
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.dll
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.pdb
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.AssemblyReference.cache
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Form1.resources
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Properties.Resources.resources
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.GenerateResource.cache
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfoInputs.cache
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfo.cs
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.CoreCompileInputs.cache
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.dll
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\refint\WordPadLasAssignment.dll
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.pdb
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.genruntimeconfig.cache
+D:\BCS(All Semester Record)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\ref\WordPadLasAssignment.dll
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.exe
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.deps.json
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.runtimeconfig.json
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.dll
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\bin\Debug\net6.0-windows\WordPadLasAssignment.pdb
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Form1.resources
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.Properties.Resources.resources
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.GenerateResource.cache
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfoInputs.cache
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.AssemblyInfo.cs
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.csproj.CoreCompileInputs.cache
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.dll
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\refint\WordPadLasAssignment.dll
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.pdb
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\WordPadLasAssignment.genruntimeconfig.cache
+E:\Computer Science(BCS)\5th Semester\Visual Programming\LabTask\WordPadLabAssignment\WordPadLasAssignment\obj\Debug\net6.0-windows\ref\WordPadLasAssignment.dll
